@@ -61,6 +61,7 @@ void loop(){
 ### Protoboard
 
 ![Protoboard](Imagens/protoboard.png)
+
 *LED Verde inicia aceso*
 
 ```cpp
@@ -74,6 +75,7 @@ Essa parte representa o LED Verde ligado com o código já em funcionamento.
 ### LED Amarelo
 
 ![Amarelo](Imagens/amarelo.png)
+
 *Pressionando o botão, o LED Amarelo acende e o LED Verde apaga*
 
 ```cpp
@@ -90,6 +92,7 @@ Aqui representamos a partir do momento em que o botão é pressionado, assim o '
 
 ### LED Vermelho 
 ![Vermelho](Imagens/vermelho.png)
+
 *Depois o tempo de 1 segundo o LED Vermelho entra em acionamento*
 
 ```cpp
@@ -105,6 +108,7 @@ Após a contagem de 1 segundo o LED Amarelo se apaga e logo liga o LED Vermelho 
 ### Estado Natural
 
 ![Retorno](Imagens/protoboard.png)
+
 *Após os 3 segundos o LED Verde volta ao seu estado natural, permanecedo ligado.*
 
 ```cpp

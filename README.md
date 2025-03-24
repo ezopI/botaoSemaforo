@@ -104,7 +104,7 @@ Após a contagem de 1 segundo o LED Amarelo se apaga e logo liga o LED Vermelho 
 
 ### Estado Natural
 
-![Retorno](Imagens\protoboard.png)
+![Retorno](Imagens/protoboard.png)
 *Após os 3 segundos o LED Verde volta ao seu estado natural, permanecedo ligado.*
 
 ```cpp
